@@ -1,7 +1,7 @@
 # Arrays.-Collection.-Generic-Types.-Annotations
 Practice tasks
 
- $${\color{lightgreen}Task 1 }$$
+ $${\color{lightgreen}Task \space 1 }$$
 
 
 
@@ -17,7 +17,7 @@ you should get
 
 
 
-$${\color{lightgreen}Task 2 }$$ 
+$${\color{lightgreen}Task \space 2 }$$ 
 
 
 Create the commonStudents() method of the MyUtils class to return a HashSet of common elements of two student lists.
@@ -38,7 +38,7 @@ you should get
 
 
 
-$${\color{lightgreen}Task 3 }$$ 
+$${\color{lightgreen}Task \space 3 }$$ 
 
 Create a listMapCompare() method of the MyUtils class to compare the contents of a list of strings and the values of a map.
 
@@ -55,7 +55,7 @@ you should get true.
 
 
 
-$${\color{lightgreen}Task 4 }$$ 
+$${\color{lightgreen}Task \space 4 }$$ 
 
 
 In the class ArrayUtil write a public static generic method named "setAndReturn(...)" to modify and return the element in an array from the given position.
@@ -74,7 +74,7 @@ System.out.println(wordFromSecondPosition);
 
 
 
-$${\color{lightgreen}Task 5 }$$ 
+$${\color{lightgreen}Task \space 5 }$$ 
 
 Suppose we have the next generic class:
 <pre>
@@ -116,7 +116,7 @@ System.out.println(averageValue2);
 
 
 
-$${\color{lightgreen}Task 6 }$$ 
+$${\color{lightgreen}Task \space 6 }$$ 
 
 
 Suppose we have the next class hierarchy:
@@ -178,7 +178,7 @@ class Developer extends Employee{
 
 
 
-$${\color{lightgreen}Task 7 }$$ 
+$${\color{lightgreen}Task  \space 7 }$$ 
 
 Create marker-annotation CamelCase which will check whether method named according to code conventions. Create class CheckCamelCase for checking if all the annotated methods of some class satisfy naming pattern. This class contains constant 'CAMELCASE_PATTERN' that introduces regex for checking method name. Also this class contains method checkAndPrint(Class clazz) which returns true if all annotated methods of class satisfy 'CAMELCASE_PATTERN' and prints to standard output information about all incorrect method names by template: method <className>.<methodName> doesn't satisfy camelCase naming convention. For example
 <pre>
