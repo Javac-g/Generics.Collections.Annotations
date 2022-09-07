@@ -1,7 +1,7 @@
 # Arrays.-Collection.-Generic-Types.-Annotations
 Practice tasksgh
 
-<span style ="color:greem">###################### $${\color{lightgreen}Light \space Green}$$ Task 1 ########################</span>
+<span>###################### $${\color{lightgreen}Task1 }$$ ########################</span>
 
 
 
