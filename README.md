@@ -1,7 +1,7 @@
 # Arrays.-Collection.-Generic-Types.-Annotations
-Practice tasksgh
+Practice tasks
 
-<span $${\color{lightgreen}Task 1 }$$ span>
+ $${\color{lightgreen}Task 1 }$$
 
 
 
@@ -68,8 +68,8 @@ System.out.println(numberFromSecondPosition);
 String[] words = new String[3];
 String wordFromSecondPosition = ArrayUtil.<String>setAndReturn(words,"Hello",1);
 System.out.println(wordFromSecondPosition);
-<code/>
-<pre/>
+</code>
+</pre>
 
 
 
