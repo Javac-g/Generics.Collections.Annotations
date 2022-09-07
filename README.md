@@ -3,6 +3,8 @@ Practice tasks
 
 ###################### Task 1 ########################
 
+
+
 Create a createNotebook() method of the MyUtils class to create a new map with name as key and phone list as value.  The method receives a map with phone as key and name as value.
 
 For example, for a given map
@@ -13,7 +15,11 @@ you should get
 
 {Ivan=[0501234567, 0631234567], Petro=[0967654321, 0677654321], Stepan=[0970011223]}
 
+
+
+
 ###################### Task 2 ########################
+
 
 Create the commonStudents() method of the MyUtils class to return a HashSet of common elements of two student lists.
 
@@ -29,6 +35,10 @@ you should get
 
 [Students [id=3, name=Stepan], Students [id=1, name=Ivan]]
 
+
+
+
+
 ###################### Task 3 ########################
 
 Create a listMapCompare() method of the MyUtils class to compare the contents of a list of strings and the values of a map.
@@ -43,7 +53,12 @@ and map
 
 you should get true.
 
+
+
+
 ###################### Task 4 ########################
+
+
 In the class ArrayUtil write a public static generic method named "setAndReturn(...)" to modify and return the element in an array from the given position.
 <pre>
 <code>
@@ -57,7 +72,11 @@ System.out.println(wordFromSecondPosition);
 <code/>
 <pre/>
 
+
+
+
 ###################### Task 5 ########################
+
 Suppose we have the next generic class:
 <pre>
 <code>
@@ -96,7 +115,12 @@ System.out.println(averageValue2);
 </pre>
 </code>
 
+
+
+
 ###################### Task 6 ########################
+
+
 Suppose we have the next class hierarchy:
 
 <pre>
