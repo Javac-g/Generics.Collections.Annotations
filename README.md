@@ -1,4 +1,4 @@
-# Arrays.-Collection.-Generic-Types.-Annotations
+# Arrays-Collection-Generic-Types-Annotations
 Practice tasks
 
  $${\color{lightgreen}Task \space 1 }$$
